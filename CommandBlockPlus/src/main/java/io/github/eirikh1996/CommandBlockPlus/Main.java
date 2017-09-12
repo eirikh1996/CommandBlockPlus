@@ -36,7 +36,7 @@ public class Main extends JavaPlugin{
 				} else {
 					sender.sendMessage(ChatColor.DARK_GREEN + "=============" + ChatColor.AQUA + "COMMANDBLOCK PLUS" + ChatColor.DARK_GREEN + "=============");
 					sender.sendMessage(ChatColor.BLUE + "A plugin that allows player-only commands to be run through command blocks. Good for using plugins like WorldEdit and Movecraft with command blocks");
-					sender.sendMessage(ChatColor.LIGHT_PURPLE + "Github:");
+					sender.sendMessage(ChatColor.LIGHT_PURPLE + "Github: https://github.com/eirikh1996/CommandBlockPlus");
 					sender.sendMessage(ChatColor.LIGHT_PURPLE + "Discord:");
 					sender.sendMessage(ChatColor.LIGHT_PURPLE + "Spigot page:");
 					sender.sendMessage(ChatColor.LIGHT_PURPLE + "Version:");
